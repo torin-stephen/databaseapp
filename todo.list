@@ -1,0 +1,14 @@
+Setup booking system:
+    record code of each stage
+    passenger accounts unique # and name
+    booking #
+
+Using booking system:
+    Allow open an account, generate # and store with name
+    check if account already exists when entering
+    gen booking #
+    calculate total price and store
+
+Applying discount:
+    40% reduction if start time > 10:00
+    confirm/end buttons
